@@ -4,6 +4,7 @@
   Backend Engineer @ Coforge | Java & Spring Boot
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Parul101shah&color=blue)
 ---
 
 ## 💼 About Me
@@ -48,6 +49,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parul101shah&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parul101shah&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parul101shah&show_icons=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Parul101shah&hide_border=true" />
 </p>
