@@ -26,7 +26,7 @@
 
 ### [Ecommerce Spring Boot App](https://github.com/Parul101shah/Ecommerce_SpringBoot_App)
 `Java 21` `Spring Boot` `PostgreSQL` `Redis` `Spring Security` `JWT` `AWS` `Docker`
-- Full-stack e-commerce backend covering product, cart, order and payment workflows
+- E-commerce backend covering product, cart, order and payment workflows
 - **JWT authentication + RBAC** for USER, SELLER and ADMIN roles
 - **Redis caching**, async email processing and **optimistic locking** for concurrent inventory updates
 - Deployed on **AWS EC2 + Amazon RDS** with Docker Compose; schema versioning with **Flyway**
